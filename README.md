@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-💫 About Me:<br>💻 I’m a CSE student & passionate about Cyber Security.<br>✅ I am a quick learner with excellent problem-solving skills.  <br>🔄 I’m committed to staying up-to-date with the latest trends and best practices in the industry.  <br>📜 I have completed CCNA and RHCSA certifications to boost my technical expertise.  <br>📈 I’m excited to continue learning and growing in this dynamic field.<br>- 👯 I’m looking to collaborate on: Cyber Security Tools<br>- 💬 Ask me about: Linux, Networking , C, Python , JavaScript , Bash .
-
+💻 I’m a CSE student & passionate about **Cybersecurity**.<br>✅ I am a quick learner with excellent problem-solving skills.  <br>🔄 I’m committed to staying up-to-date with the latest trends and best practices in the industry.  <br>📜 I have completed **CCNA** and **RHCSA** certifications to boost my technical expertise.  <br>📈 I’m excited to continue learning and growing in this dynamic field.<br>- 👯 **I’m looking to collaborate on: Cyber Security Tools**<br>- 💬 Ask me about: Linux, Networking , C, Python , JavaScript , Bash .
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/0x4r1f) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0x4r1f) 
